@@ -1,0 +1,23 @@
+La société Orange  a mandaté la société P.E. Corporation afin concevoir son site de gestion des interventions dont le nom est OrangeIntervention. 
+Pour une meilleure prise en main et améliorer la gestion pour l’administrateur, le prestataire a mis à disposition du client Orange une application Java afin de faciliter l’administration de la base de données et pouvoir accéder à l’ensemble des données en Ajout, Suppression et Modification.
+
+2.	Objectifs 
+Une fois déployé, l’application devra fournir les fonctionnalités suivantes :
+-	La gestion des clients ;
+-	La gestion des produits ;
+-	La gestion des techniciens ;
+-	La gestion des interventions ;
+
+3.	Démarche suivie 
+Pour réaliser la mission, il était important d’établir un diagramme de Gantt qui spécifie l’ensemble des activités à mener dans des temps impartis.
+ La première tâche après l’analyse des besoins du client, était la collecte des données pour construire une base de données sous le SGBD MySQL, vient ensuite la conception de l’interface administrateur.
+Le développement de l’application a été réalisé avec JAVA/SWING.
+Plusieurs documentations ont été élaborées à la fin de la réalisation. 
+
+   
+4.	Méthodes retenues
+Pour une meilleure rigueur de la programmation et une meilleure visibilité des codes, il a été implémenté le modèle MVC où les codes, l’accès aux données et les vues sont séparés.
+Les technologies suivantes ont été utilisées : JAVA/SWING/MYSQL.
+
+5.	Conclusion
+L’application est actuellement fonctionnelle et a été testée par l’entreprise. Elle va être déployée dans les prochains jours, une fois le filtre (système de recherche) opérationnel. Satisfaite, l’entreprise souhaite ajouter quelques fonctionnalités notamment l’archivage des produits non-réparable.
